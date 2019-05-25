@@ -31,9 +31,6 @@ else:
 # g = Github("user", "password")
 # os.system('.\ssh_agent_init.sh')
 # or using an access token
-githubAccessToken=''
-githubActorName=''
-githubActorEMail=''
 # First create a Github instance:
 g = Github(githubAccessToken)
 actor = Actor(githubActorName, githubActorEMail)
@@ -45,10 +42,12 @@ REPO_NAME = 'not_set'
 
 def listGitHubRepo():
     # Then play with your Github objects:
-    print(BLUE+"List of repo on GitHub :")
-    for repo in g.get_user().get_repos():
-        print(BLUE+repo.name)
-
+    print(BLUE+"List of repo on GitHub :"+str(g.get_user()))
+    try:
+        for repo in g.get_user().get_repos():
+                print(BLUE+repo.name)
+    except Exception as e: 
+        print(e)
 
 def isGitHubRepoExisting(name):
     # Then play with your Github objects:
@@ -166,3 +165,4 @@ def gitCreateAndPush(repository,repoDescription):
         
 
 # print('test')
+# listGitHubRepo()
