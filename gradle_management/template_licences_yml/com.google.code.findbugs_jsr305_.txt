@@ -1,0 +1,4 @@
+# Not distributed in APK
+- artifact: com.google.code.findbugs:jsr305:+
+  skip: true
+

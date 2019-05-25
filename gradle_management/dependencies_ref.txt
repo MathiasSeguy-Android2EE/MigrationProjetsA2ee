@@ -1,0 +1,50 @@
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    //necessary to read JSONObject in tests
+    testImplementation "org.json:json:${jsonVersion}"
+
+    // LeakCanary declaration order matters https://github.com/square/leakcanary/issues/143
+    androidTestImplementation "com.squareup.leakcanary:leakcanary-android-no-op:${leakcanaryVersion}"
+    testImplementation "com.squareup.leakcanary:leakcanary-android-no-op:${leakcanaryVersion}"
+    debugImplementation "com.squareup.leakcanary:leakcanary-android:${leakcanaryVersion}"
+    releaseImplementation "com.squareup.leakcanary:leakcanary-android-no-op:${leakcanaryVersion}"
+
+    // Kotlin
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+
+    // Retrofit and co
+    implementation "com.squareup.moshi:moshi:${moshiVersion}"
+    implementation "com.squareup.retrofit2:retrofit:${retrofit2Version}"
+    implementation "com.squareup.retrofit2:converter-moshi:${retrofit2Version}"
+    implementation "com.squareup.okhttp3:okhttp:${okhttp3Version}"
+    implementation "com.squareup.okhttp3:logging-interceptor:${okhttp3Version}"
+    implementation "com.squareup.okio:okio:${okioVersion}"
+    // EventBus
+    implementation "org.greenrobot:eventbus:${eventbusVersion}"
+    // Mockito
+    testImplementation "org.mockito:mockito-core:${mokitoVersion}"
+    // NetWorkConnectionClass (Quality)
+    implementation "com.facebook.network.connectionclass:connectionclass:${networkConnectionClassVersion}"
+   
+    //Dart and Hendson
+    implementation "com.f2prateek.dart:dart:${dart}"
+    implementation "com.f2prateek.dart:henson:${dart}"
+    annotationProcessor "com.f2prateek.dart:dart-processor:${dart}"
+    annotationProcessor "com.f2prateek.dart:henson-processor:${dart}"
+
+    kapt "com.f2prateek.dart:dart-processor:${dart}"
+    kapt "com.f2prateek.dart:henson-processor:${dart}"
+
+    implementation "com.batch.android:batch-sdk:${batchSdk}"
+    //Stetho just to check
+    //http://facebook.github.io/stetho/
+    //https://code.tutsplus.com/tutorials/debugging-android-apps-with-facebooks-stetho--cms-24205
+    implementation "com.facebook.stetho:stetho:${fbStetho}"
+    implementation "com.facebook.stetho:stetho-okhttp3:${fbStetho}"
+    // Picasso (Image downloading and caching)
+    api "com.squareup.picasso:picasso:${picassoVersion}"
+
+    //MPAndroidChart
+    implementation "com.github.PhilJay:MPAndroidChart:${chartLibVersion}"
+
+}

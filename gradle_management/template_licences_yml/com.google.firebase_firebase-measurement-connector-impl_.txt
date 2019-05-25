@@ -1,0 +1,8 @@
+#Firebase Components
+- artifact: com.google.firebase:firebase-measurement-connector-impl:+
+  name: firebase-measurement-connector-impl
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+  skip: true
+

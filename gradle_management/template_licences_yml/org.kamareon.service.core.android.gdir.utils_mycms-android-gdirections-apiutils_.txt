@@ -1,0 +1,9 @@
+  # Mathias initial lib but we should call it harini
+- artifact: org.kamareon.service.core.android.gdir.utils:mycms-android-gdirections-apiutils:+
+  name: GDirectionsApiUtils for mycms-android
+  copyrightHolder: Mathias Seguy
+  license:  copyright2017 RENAULT NISSAN ALLIANCE all rights reserved
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://github.com/A-CMS/mycms-android-gdirections_api_utils.git
+  skip: true
+

@@ -1,0 +1,523 @@
+=>../../FormationAndroid2ee\AppCompatViews
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../FormationAndroid2ee\DepartTPForecast\MyPermierProjetInfomil
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../FormationAndroid2ee\FormationInitiale_InitGui_AS
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			ActivityWithListMenuDialog
+			AnalogicAndDigitalClock
+			AppWidgetTuto
+			CalendarViewTuto
+			CheckBoxTuto
+			CheckedTextViewTuto
+			ChronoTuto
+			CircleBar
+			Cours3TP2ListView
+			Cours3TP3SpinnerAutoCompleteTextView
+			Cours4DialogDemo
+			DateAndTimePickerTuto
+			DrawGraphic
+			DynamicTabPane
+			GalleryTuto
+			GridLayoutTuto
+			LinearLayoutSample
+			ListViewTuto2
+			MultiTabBrowserTuto
+			PreferenceSimpleTuto
+			ProgressBarTuto
+			RadioButtonTuto
+			RelativeLayout
+			SeekBarRadioGroupCheckBox
+			SimpleWidgetTuto
+			SlidingDrawerTuto
+			StaticTabPane
+			TabHostLikeViewPager
+			TableLayoutTuto
+			TPCoursIHM2
+			VideoViewTuto
+			ViewFlipperActivityTuto
+			ViewFlipperSimpleTuto
+			WebViewTuto
+			FingerFollowing
+=>../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CircleBar
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			 has a problem with the structure AS NOT COMPLICANT, eclipse project
+=>../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP3SpinnerAutoCompleteTextView
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			 has a problem with the structure AS NOT COMPLICANT, eclipse project
+=>../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours4DialogDemo
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			 has a problem with the structure AS NOT COMPLICANT, eclipse project
+=>../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ProgressBarTuto
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			 has a problem with the structure AS NOT COMPLICANT, eclipse project
+=>../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ProgressBarTutoAS
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			 has a problem with the structure NO CODE
+=>../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			ContentProviderTuto
+			DataBaseTuto
+			FileManagementTuto
+			AndroidLifeCycleLogging
+			IntentionSimpleTuto
+			MenuTuto
+			NotificationTuto
+			RSSReaderTuto
+			DisplayContactsTuto
+			FinishInOnCreate
+			BlueTooth
+			PermierTPParisNov
+			PhotographyByIntent
+			PremierProjetAtos
+			PremierProjetJCertif
+			PremierTPInterParisMai
+			PremierTPOrleans
+			SmsListenerTuto
+			SmsReceiverMathias
+			SMSTuto
+			CursorLoaderTuto
+=>../../FormationAndroid2ee\FormationInitiale_Sensor_Thread
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			HandlerActivityBindingThreadTuto
+			HandlerTuto
+			AsyncTaskTuto
+			OrphanAsyncTaskThreadTuto
+			OrphanThreadDemo
+			SensorAccelerationTuto
+			SensorAccelerationTutoAlpha
+			SensorGyroscopeTuto
+			SensorLightTuto
+			SensorMagneticFieldTuto
+			SensorOrientationAMTuto
+			SensorProximityTuto
+			SensorRotationVectorTuto
+			SensorsListTuto
+=>../../FormationAndroid2ee\Formation_ICS_AS
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			 has a problem with the structure NO CODE
+			ActionBarCompatSample
+			ActionBarTuto
+			ActivityTransition
+			AuthentificationGPlus
+			DataBaseOrmLite
+			navigationdrawer
+			FragmentDynamicTuto
+			FragmentStaticTuto
+			DataBaseSugarOrmTuto
+			EventBusSample
+			GDriveTuto
+			GoogleMapSample
+			ViewPagerTutorial
+=>../../FormationAndroid2ee\Formation_Lollipop_M
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			toolbar
+			toolbar_withtabsnav
+			recyclerview
+			jobschedulersimple
+=>../../FormationAndroid2ee\Formation_Lollipop_M\recyclerview
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			 has a problem with the structure AS NOT COMPLICANT, eclipse project
+=>../../FormationAndroid2ee\Formation_Lollipop_M\toolbar_withtabsnav
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			 has a problem with the structure AS NOT COMPLICANT, eclipse project
+=>../../FormationAndroid2ee\JAssimileDepartTP
+			 has a problem with git
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../GitHub_Projects\AndroidOAuth2_Github_POC
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../GitHub_Projects\AnimatedVectorMorphingTool
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			animatedvectortool
+			workingdirsimpletest
+=>../../GitHub_Projects\AnimatedVectorMorphingTool\workingdirsimpletest
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			 has a problem with the structure AS NOT COMPLICANT, eclipse project
+=>../../GitHub_Projects\Animations
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			animation
+			recyclerview
+=>../../GitHub_Projects\BugAnimatedVectorDrawableAndLevelList
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			workingdirsimpletest
+=>../../GitHub_Projects\CustomViewAndDrawable
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../GitHub_Projects\CustomViewCircleBar
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../GitHub_Projects\GDirectionsApiUtils\GDirectionsApiUtils
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../GitHub_Projects\JobSchedulerForGitHub
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			jobschedulersimple
+=>../../GitHub_Projects\Square
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			retrofit
+			okhttp
+=>../../GitHub_Projects\SquareLibs
+			 has a problem with git
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../GitHub_Projects\ToolBar4Github
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			toolbar
+			toolbar_withtabsnav
+=>../../GitHub_Projects\ToolBar4Github\toolbar_withtabsnav
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			 has a problem with the structure AS NOT COMPLICANT, eclipse project
+=>../../MyLabProject\BallMovement
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../MyLabProject\CircleBar
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../MyLabProject\DecoratorThreeStatesView
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../MyLabProject\GameTuto
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../MyLabProject\GPathEffects
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../MyLabProject\ScreenDesigner
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../MyProjets\AmberTeam
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../MyProjets\ForecastYahooRest\ForecastRestWithLibs
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../MyProjets\ForecastYahooRest\ForecastYahooRest
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			 has a problem with the structure AS NOT COMPLICANT, eclipse project
+=>../../MyProjets\MultiplicationBasile
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../MyProjets\MyApplication
+			 has a problem with git
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../MyProjets\MyGoooglePublicProfile
+			 has a problem with git
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../MyProjets\MyLight
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../MyProjets\MyStopTabac
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../MyProjets\TextToSpeechBasile
+			 has a problem with git
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../MyProjets\WayDroid
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			serverbackend
+=>../../MyProjets\WearGallery
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../Python\MigrationProjetsA2ee\gradle_management\template_gradle
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../Sylpheo\AndroidAutoSimpleApp
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			 has a problem with the structure NO CODE
+			mobile
+=>../../Sylpheo\Hackaton-Widget-Android
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../Sylpheo\renault-androidauto-poc
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			 has a problem with the structure NO CODE
+			mobile
+=>../../Temp\Res\ActionBarCompatSample
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../Temp\Res\AmberTeam
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../Temp\Res\ChronoTuto
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../Temp\Res\ForecastRestWithLibs
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../Temp\Res\MyLight
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../TPFormation\FirstToulouseProject
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../TPFormation\FormationInfomilDeux
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../TPFormation\MyAcmsFirstTraining
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			mobile-debug
+=>../../TPFormation\MyApplicationCGI
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../TPFormation\MyApplicationOIF
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../TPFormation\MyApplicationTeleric
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../TPFormation\MyFirstApplicationM2I
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../TPFormation\MyFirstAppWithGael
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../TPFormation\MyFirstPorjectIdGeo
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../TPFormation\MyFirstPorjectParisJulyMMXV
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			smsreceiverparisjulmmxv
+			atos
+=>../../TPFormation\MyFirstProjectParisSeptXV
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../TPFormation\MyPermierProjetInfomil
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			mysmslistener
+			myapplication
+			mysmslistenerparisienmai
+=>../../TPFormation\MySecondAcmsApplication
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			app
+=>../../TPFormation\PremierProjetDecXxdv
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			mysmsreceiver
+=>../../TPFormation\PremierProjetOntomantics
+			 has a problem with git
+			 has a problem, missing ReadMe.md file
+			 has a problem, missing License.txt file
+			 has a problem with O.S. Licenses management
+			 has a speicifc JKS
+			myfirstsmslistener

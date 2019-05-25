@@ -1,0 +1,7 @@
+#Firebase Components
+- artifact: com.firebase:firebase-jobdispatcher:+
+  name: firebase-jobdispatcher
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+

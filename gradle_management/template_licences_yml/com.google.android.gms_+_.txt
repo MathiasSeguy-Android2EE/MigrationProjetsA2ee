@@ -1,0 +1,5 @@
+# License is access programmatically:
+# GoogleApiAvailability.getInstance().getOpenSourceSoftwareLicenseInfo(Context)
+- artifact: com.google.android.gms:+:+
+  skip: true
+

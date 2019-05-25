@@ -1,0 +1,4 @@
+# Not OSS
+- artifact: io.fabric.sdk.android:fabric:+
+  skip: true
+

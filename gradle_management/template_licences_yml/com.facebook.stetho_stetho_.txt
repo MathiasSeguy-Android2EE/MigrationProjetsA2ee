@@ -1,0 +1,7 @@
+#Stetho librairies
+- artifact: com.facebook.stetho:stetho:+
+  name: Stetho
+  copyrightHolder: Facebook
+  license: BSD License
+  licenseUrl: https://github.com/facebook/stetho/blob/master/LICENSE
+  url: https://github.com/facebook/stetho

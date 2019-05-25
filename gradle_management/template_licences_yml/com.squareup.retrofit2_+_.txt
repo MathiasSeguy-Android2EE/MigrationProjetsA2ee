@@ -1,0 +1,8 @@
+#  SQUARE libs
+- artifact: com.squareup.retrofit2:+:+
+  name: Retrofit 2
+  copyrightHolder: Square, Inc.
+  license: Apache License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+
+

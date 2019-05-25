@@ -1,0 +1,9 @@
+#FaceBook
+- artifact: com.facebook.network.connectionclass:connectionclass:+
+  name: Network Connection Class
+  copyrightHolder: FaceBook
+  license: BSD License
+  licenseUrl: https://github.com/facebook/network-connection-class/blob/master/LICENSE
+  url: https://github.com/facebook/network-connection-class
+
+

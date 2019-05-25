@@ -1,0 +1,7 @@
+#Stetho librairies
+- artifact: commons-cli:commons-cli:+
+  name: Commons CLI
+  copyrightHolder: Apache
+  license: The Apache Software License, Version 2.0
+  url: http://commons.apache.org/cli/
+

@@ -1,0 +1,8 @@
+#GridLayout AndroidX
+- artifact: androidx.gridlayout:gridlayout:+
+  name: Android Support Grid Layout
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+

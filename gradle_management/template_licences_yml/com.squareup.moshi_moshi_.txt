@@ -1,0 +1,7 @@
+#  SQUARE libs
+- artifact: com.squareup.moshi:moshi:+
+  name: Moshi
+  copyrightHolder: Square, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+

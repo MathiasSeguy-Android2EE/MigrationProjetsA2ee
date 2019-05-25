@@ -1,0 +1,9 @@
+#Dart and Henson
+- artifact: com.f2prateek.dart:henson:+
+  name: Henson
+  copyrightHolder: 2013 Jake Wharton - 2014 Prateek Srivastava
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://github.com/f2prateek/dart
+
+

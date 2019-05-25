@@ -1,0 +1,9 @@
+# Renault property owner, Not OSS
+- artifact: com.srp.renault.srploaderapp:srplib:+
+  skip: true
+  name: SRP Android Acms
+  copyrightHolder: Renault-Nissan-Mistubishi, Inc.
+  license: RenaultNissanMistubishi Alliance. All rights reserved.
+  licenseUrl: https://www.alliance-2022.com/
+  url: https://github.com/A-CMS/a-mss-srp-android
+

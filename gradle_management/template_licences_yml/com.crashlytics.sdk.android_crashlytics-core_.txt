@@ -1,0 +1,4 @@
+# Not OSS
+- artifact: com.crashlytics.sdk.android:crashlytics-core:+
+  skip: true
+

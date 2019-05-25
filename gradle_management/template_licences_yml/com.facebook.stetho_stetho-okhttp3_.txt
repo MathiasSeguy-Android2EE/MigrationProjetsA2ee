@@ -1,0 +1,7 @@
+#Stetho librairies
+- artifact: com.facebook.stetho:stetho-okhttp3:+
+  name: Stetho OkHttp 3 module
+  copyrightHolder: Facebook
+  license: BSD License
+  licenseUrl: https://github.com/facebook/stetho/blob/master/LICENSE
+  url: https://github.com/facebook/stetho

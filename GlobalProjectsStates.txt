@@ -1,0 +1,885 @@
+
+
+List of projects 
+****************************
+../../FormationAndroid2ee\AppCompatViews	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\DepartTPForecast\MyPermierProjetInfomil	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ActivityWithListMenuDialog	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\AnalogicAndDigitalClock	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\AppWidgetTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CalendarViewTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CheckBoxTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CheckedTextViewTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ChronoTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CircleBar	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP2ListView	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP3SpinnerAutoCompleteTextView	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours4DialogDemo	 isEclipseLegacy	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DateAndTimePickerTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DrawGraphic	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DynamicTabPane	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\FingerFollowing	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\GalleryTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\GridLayoutTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\LinearLayoutSample	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ListViewTuto2	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\MultiTabBrowserTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\PreferenceSimpleTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ProgressBarTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\RadioButtonTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\RelativeLayout	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SeekBarRadioGroupCheckBox	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SimpleWidgetTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SlidingDrawerTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\StaticTabPane	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TabHostLikeViewPager	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TableLayoutTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TPCoursIHM2	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\VideoViewTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ViewFlipperActivityTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ViewFlipperSimpleTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\WebViewTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\AndroidLifeCycleLogging	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\BlueTooth	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\ContentProviderTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\CursorLoaderTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\DataBaseTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\DisplayContactsTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\FileManagementTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\FinishInOnCreate	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\IntentionSimpleTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\MenuTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\NotificationTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PermierTPParisNov	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PhotographyByIntent	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierProjetAtos	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierProjetJCertif	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierTPInterParisMai	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierTPOrleans	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\RSSReaderTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SmsListenerTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SmsReceiverMathias	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SMSTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\AsyncTaskTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\HandlerActivityBindingThreadTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\HandlerTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\OrphanAsyncTaskThreadTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\OrphanThreadDemo	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorAccelerationTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorAccelerationTutoAlpha	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorGyroscopeTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorLightTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorMagneticFieldTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorOrientationAMTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorProximityTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorRotationVectorTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorsListTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\Formation_ICS_AS\AAnnotProjectMigrated	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\Formation_ICS_AS\ActionBarCompatSample	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\Formation_ICS_AS\ActionBarTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\Formation_ICS_AS\ActivityTransition	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\Formation_ICS_AS\AuthentificationGPlus	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\Formation_ICS_AS\DataBaseOrmLite	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\Formation_ICS_AS\DataBaseSugarOrmTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\Formation_ICS_AS\EventBusSample	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\Formation_ICS_AS\FragmentDynamicTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\Formation_ICS_AS\FragmentStaticTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\Formation_ICS_AS\GDriveTuto	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\Formation_ICS_AS\GoogleMapSample	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../FormationAndroid2ee\JAssimileDepartTP	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../GitHub_Projects\AndroidOAuth2_Github_POC	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management	 has Specific JKS already defined
+../../GitHub_Projects\BlueToothTuto\BlueTooth	 isEclipseLegacy	 is not Git Repo	 is NOT RootDir	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../GitHub_Projects\BugAnimatedVectorDrawableAndLevelList	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../GitHub_Projects\CustomViewAndDrawable	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../GitHub_Projects\CustomViewCircleBar	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../GitHub_Projects\GDirectionsApiUtils\GDirectionsApiUtils	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../GitHub_Projects\JobSchedulerForGitHub	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../GitHub_Projects\SquareLibs	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../MyLabProject\BallMovement	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../MyLabProject\CircleBar	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../MyLabProject\DecoratorThreeStatesView	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../MyLabProject\GameTuto	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../MyLabProject\GPathEffects	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../MyLabProject\ScreenDesigner	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../MyProjets\AmberTeam	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management	 has Specific JKS already defined
+../../MyProjets\ForecastYahooRest\ForecastRestWithLibs	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management	 has Specific JKS already defined
+../../MyProjets\ForecastYahooRest\ForecastYahooRest	 isEclipseLegacy	 is not Git Repo	 has NOT ReadMe	 has NOT O.S. Licenses management
+../../MyProjets\MultiplicationBasile	 has Specific JKS already defined
+../../MyProjets\MyApplication	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../MyProjets\MyGoooglePublicProfile	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management	 has Specific JKS already defined
+../../MyProjets\MyLight	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management	 has Specific JKS already defined
+../../MyProjets\MyStopTabac	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management	 has Specific JKS already defined
+../../MyProjets\TextToSpeechBasile	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../MyProjets\WayDroid	 has NOT LICENSE.txt	 has NOT O.S. Licenses management	 has Specific JKS already defined
+../../MyProjets\WearGallery	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../Sylpheo\Hackaton-Widget-Android	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../Temp\Res\ActionBarCompatSample	 is not Git Repo	 has Specific JKS already defined
+../../Temp\Res\AmberTeam	 has Specific JKS already defined
+../../Temp\Res\ChronoTuto	 is not Git Repo	 has Specific JKS already defined
+../../Temp\Res\ForecastRestWithLibs	 is not Git Repo	 has Specific JKS already defined
+../../Temp\Res\MyLight	 has Specific JKS already defined
+../../TPFormation\FirstToulouseProject	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../TPFormation\FormationInfomilDeux	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../TPFormation\MyAcmsFirstTraining	 has NOT ReadMe	 has NOT O.S. Licenses management	 has Specific JKS already defined
+../../TPFormation\MyApplicationCGI	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../TPFormation\MyApplicationOIF	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../TPFormation\MyApplicationTeleric	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../TPFormation\MyFirstApplicationM2I	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../TPFormation\MyFirstAppWithGael	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../TPFormation\MyFirstPorjectIdGeo	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../TPFormation\MyFirstProjectParisSeptXV	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../TPFormation\MySecondAcmsApplication	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../TPFormation\PremierProjetDecXxdv	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+../../TPFormation\PremierProjetOntomantics	 is not Git Repo	 has NOT ReadMe	 has NOT LICENSE.txt	 has NOT O.S. Licenses management
+
+
+Report 
+****************************
+
+Number of Projects=129
+Number of Projects AndroidStudio Compliant with Git=46
+Number of Projects EclipseLegacy                   =85
+Number of Projects Without Git                     =112
+Number of Projects in MultiModule                  =83
+Number of Projects without ReadMe                  =120
+Number of Projects without Licenses.txt            =122
+Number of Projects without OS Licenses Management  =124
+Number of Projects with specific JKS               =15
+
+AndroidStudio projects
+****************************
+
+../../FormationAndroid2ee\AppCompatViews
+../../FormationAndroid2ee\DepartTPForecast\MyPermierProjetInfomil
+../../FormationAndroid2ee\JAssimileDepartTP
+../../GitHub_Projects\AndroidOAuth2_Github_POC
+../../GitHub_Projects\BugAnimatedVectorDrawableAndLevelList
+../../GitHub_Projects\CustomViewAndDrawable
+../../GitHub_Projects\CustomViewCircleBar
+../../GitHub_Projects\GDirectionsApiUtils\GDirectionsApiUtils
+../../GitHub_Projects\JobSchedulerForGitHub
+../../GitHub_Projects\SquareLibs
+../../MyLabProject\BallMovement
+../../MyLabProject\CircleBar
+../../MyLabProject\DecoratorThreeStatesView
+../../MyLabProject\GameTuto
+../../MyLabProject\GPathEffects
+../../MyLabProject\ScreenDesigner
+../../MyProjets\AmberTeam
+../../MyProjets\ForecastYahooRest\ForecastRestWithLibs
+../../MyProjets\MultiplicationBasile
+../../MyProjets\MyApplication
+../../MyProjets\MyGoooglePublicProfile
+../../MyProjets\MyLight
+../../MyProjets\MyStopTabac
+../../MyProjets\TextToSpeechBasile
+../../MyProjets\WayDroid
+../../MyProjets\WearGallery
+../../Sylpheo\Hackaton-Widget-Android
+../../Temp\Res\ActionBarCompatSample
+../../Temp\Res\AmberTeam
+../../Temp\Res\ChronoTuto
+../../Temp\Res\ForecastRestWithLibs
+../../Temp\Res\MyLight
+../../TPFormation\FirstToulouseProject
+../../TPFormation\FormationInfomilDeux
+../../TPFormation\MyAcmsFirstTraining
+../../TPFormation\MyApplicationCGI
+../../TPFormation\MyApplicationOIF
+../../TPFormation\MyApplicationTeleric
+../../TPFormation\MyFirstApplicationM2I
+../../TPFormation\MyFirstAppWithGael
+../../TPFormation\MyFirstPorjectIdGeo
+../../TPFormation\MyFirstProjectParisSeptXV
+../../TPFormation\MySecondAcmsApplication
+../../TPFormation\PremierProjetDecXxdv
+../../TPFormation\PremierProjetOntomantics
+
+
+EclipseLegacy projects
+****************************
+
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ActivityWithListMenuDialog
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\AnalogicAndDigitalClock
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\AppWidgetTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CalendarViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CheckBoxTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CheckedTextViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ChronoTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CircleBar
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP2ListView
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP3SpinnerAutoCompleteTextView
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours4DialogDemo
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DateAndTimePickerTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DrawGraphic
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DynamicTabPane
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\FingerFollowing
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\GalleryTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\GridLayoutTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\LinearLayoutSample
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ListViewTuto2
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\MultiTabBrowserTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\PreferenceSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ProgressBarTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\RadioButtonTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\RelativeLayout
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SeekBarRadioGroupCheckBox
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SimpleWidgetTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SlidingDrawerTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\StaticTabPane
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TabHostLikeViewPager
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TableLayoutTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TPCoursIHM2
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\VideoViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ViewFlipperActivityTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ViewFlipperSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\WebViewTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\AndroidLifeCycleLogging
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\BlueTooth
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\ContentProviderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\CursorLoaderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\DataBaseTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\DisplayContactsTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\FileManagementTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\FinishInOnCreate
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\IntentionSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\MenuTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\NotificationTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PermierTPParisNov
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PhotographyByIntent
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierProjetAtos
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierProjetJCertif
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierTPInterParisMai
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierTPOrleans
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\RSSReaderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SmsListenerTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SmsReceiverMathias
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SMSTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\AsyncTaskTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\HandlerActivityBindingThreadTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\HandlerTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\OrphanAsyncTaskThreadTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\OrphanThreadDemo
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorAccelerationTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorAccelerationTutoAlpha
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorGyroscopeTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorLightTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorMagneticFieldTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorOrientationAMTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorProximityTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorRotationVectorTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorsListTuto
+../../FormationAndroid2ee\Formation_ICS_AS\AAnnotProjectMigrated
+../../FormationAndroid2ee\Formation_ICS_AS\ActionBarCompatSample
+../../FormationAndroid2ee\Formation_ICS_AS\ActionBarTuto
+../../FormationAndroid2ee\Formation_ICS_AS\ActivityTransition
+../../FormationAndroid2ee\Formation_ICS_AS\AuthentificationGPlus
+../../FormationAndroid2ee\Formation_ICS_AS\DataBaseOrmLite
+../../FormationAndroid2ee\Formation_ICS_AS\DataBaseSugarOrmTuto
+../../FormationAndroid2ee\Formation_ICS_AS\EventBusSample
+../../FormationAndroid2ee\Formation_ICS_AS\FragmentDynamicTuto
+../../FormationAndroid2ee\Formation_ICS_AS\FragmentStaticTuto
+../../FormationAndroid2ee\Formation_ICS_AS\GDriveTuto
+../../FormationAndroid2ee\Formation_ICS_AS\GoogleMapSample
+../../GitHub_Projects\BlueToothTuto\BlueTooth
+../../MyProjets\ForecastYahooRest\ForecastYahooRest
+
+
+GitNotSet projects
+****************************
+
+../../FormationAndroid2ee\AppCompatViews
+../../FormationAndroid2ee\DepartTPForecast\MyPermierProjetInfomil
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ActivityWithListMenuDialog
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\AnalogicAndDigitalClock
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\AppWidgetTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CalendarViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CheckBoxTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CheckedTextViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ChronoTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CircleBar
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP2ListView
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP3SpinnerAutoCompleteTextView
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours4DialogDemo
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DateAndTimePickerTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DrawGraphic
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DynamicTabPane
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\FingerFollowing
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\GalleryTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\GridLayoutTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\LinearLayoutSample
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ListViewTuto2
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\MultiTabBrowserTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\PreferenceSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ProgressBarTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\RadioButtonTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\RelativeLayout
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SeekBarRadioGroupCheckBox
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SimpleWidgetTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SlidingDrawerTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\StaticTabPane
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TabHostLikeViewPager
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TableLayoutTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TPCoursIHM2
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\VideoViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ViewFlipperActivityTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ViewFlipperSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\WebViewTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\AndroidLifeCycleLogging
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\BlueTooth
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\ContentProviderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\CursorLoaderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\DataBaseTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\DisplayContactsTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\FileManagementTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\FinishInOnCreate
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\IntentionSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\MenuTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\NotificationTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PermierTPParisNov
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PhotographyByIntent
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierProjetAtos
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierProjetJCertif
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierTPInterParisMai
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierTPOrleans
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\RSSReaderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SmsListenerTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SmsReceiverMathias
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SMSTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\AsyncTaskTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\HandlerActivityBindingThreadTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\HandlerTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\OrphanAsyncTaskThreadTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\OrphanThreadDemo
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorAccelerationTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorAccelerationTutoAlpha
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorGyroscopeTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorLightTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorMagneticFieldTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorOrientationAMTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorProximityTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorRotationVectorTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorsListTuto
+../../FormationAndroid2ee\Formation_ICS_AS\AAnnotProjectMigrated
+../../FormationAndroid2ee\Formation_ICS_AS\ActionBarCompatSample
+../../FormationAndroid2ee\Formation_ICS_AS\ActionBarTuto
+../../FormationAndroid2ee\Formation_ICS_AS\ActivityTransition
+../../FormationAndroid2ee\Formation_ICS_AS\AuthentificationGPlus
+../../FormationAndroid2ee\Formation_ICS_AS\DataBaseOrmLite
+../../FormationAndroid2ee\Formation_ICS_AS\DataBaseSugarOrmTuto
+../../FormationAndroid2ee\Formation_ICS_AS\EventBusSample
+../../FormationAndroid2ee\Formation_ICS_AS\FragmentDynamicTuto
+../../FormationAndroid2ee\Formation_ICS_AS\FragmentStaticTuto
+../../FormationAndroid2ee\Formation_ICS_AS\GDriveTuto
+../../FormationAndroid2ee\Formation_ICS_AS\GoogleMapSample
+../../FormationAndroid2ee\JAssimileDepartTP
+../../GitHub_Projects\BlueToothTuto\BlueTooth
+../../GitHub_Projects\GDirectionsApiUtils\GDirectionsApiUtils
+../../GitHub_Projects\SquareLibs
+../../MyLabProject\BallMovement
+../../MyLabProject\CircleBar
+../../MyLabProject\DecoratorThreeStatesView
+../../MyLabProject\GameTuto
+../../MyLabProject\GPathEffects
+../../MyLabProject\ScreenDesigner
+../../MyProjets\ForecastYahooRest\ForecastRestWithLibs
+../../MyProjets\ForecastYahooRest\ForecastYahooRest
+../../MyProjets\MyApplication
+../../MyProjets\MyGoooglePublicProfile
+../../MyProjets\TextToSpeechBasile
+../../Temp\Res\ActionBarCompatSample
+../../Temp\Res\ChronoTuto
+../../Temp\Res\ForecastRestWithLibs
+../../TPFormation\FirstToulouseProject
+../../TPFormation\FormationInfomilDeux
+../../TPFormation\MyApplicationCGI
+../../TPFormation\MyFirstApplicationM2I
+../../TPFormation\MyFirstAppWithGael
+../../TPFormation\MyFirstPorjectIdGeo
+../../TPFormation\MyFirstProjectParisSeptXV
+../../TPFormation\PremierProjetDecXxdv
+../../TPFormation\PremierProjetOntomantics
+
+
+NotRootProject projects
+****************************
+
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ActivityWithListMenuDialog
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\AnalogicAndDigitalClock
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\AppWidgetTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CalendarViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CheckBoxTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CheckedTextViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ChronoTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CircleBar
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP2ListView
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP3SpinnerAutoCompleteTextView
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DateAndTimePickerTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DrawGraphic
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DynamicTabPane
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\FingerFollowing
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\GalleryTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\GridLayoutTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\LinearLayoutSample
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ListViewTuto2
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\MultiTabBrowserTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\PreferenceSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ProgressBarTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\RadioButtonTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\RelativeLayout
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SeekBarRadioGroupCheckBox
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SimpleWidgetTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SlidingDrawerTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\StaticTabPane
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TabHostLikeViewPager
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TableLayoutTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TPCoursIHM2
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\VideoViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ViewFlipperActivityTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ViewFlipperSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\WebViewTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\AndroidLifeCycleLogging
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\BlueTooth
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\ContentProviderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\CursorLoaderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\DataBaseTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\DisplayContactsTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\FileManagementTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\FinishInOnCreate
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\IntentionSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\MenuTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\NotificationTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PermierTPParisNov
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PhotographyByIntent
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierProjetAtos
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierProjetJCertif
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierTPInterParisMai
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierTPOrleans
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\RSSReaderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SmsListenerTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SmsReceiverMathias
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SMSTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\AsyncTaskTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\HandlerActivityBindingThreadTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\HandlerTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\OrphanAsyncTaskThreadTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\OrphanThreadDemo
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorAccelerationTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorAccelerationTutoAlpha
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorGyroscopeTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorLightTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorMagneticFieldTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorOrientationAMTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorProximityTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorRotationVectorTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorsListTuto
+../../FormationAndroid2ee\Formation_ICS_AS\AAnnotProjectMigrated
+../../FormationAndroid2ee\Formation_ICS_AS\ActionBarCompatSample
+../../FormationAndroid2ee\Formation_ICS_AS\ActionBarTuto
+../../FormationAndroid2ee\Formation_ICS_AS\ActivityTransition
+../../FormationAndroid2ee\Formation_ICS_AS\AuthentificationGPlus
+../../FormationAndroid2ee\Formation_ICS_AS\DataBaseOrmLite
+../../FormationAndroid2ee\Formation_ICS_AS\DataBaseSugarOrmTuto
+../../FormationAndroid2ee\Formation_ICS_AS\EventBusSample
+../../FormationAndroid2ee\Formation_ICS_AS\FragmentDynamicTuto
+../../FormationAndroid2ee\Formation_ICS_AS\FragmentStaticTuto
+../../FormationAndroid2ee\Formation_ICS_AS\GDriveTuto
+../../FormationAndroid2ee\Formation_ICS_AS\GoogleMapSample
+../../GitHub_Projects\BlueToothTuto\BlueTooth
+
+
+Missing ReadMe projects
+****************************
+
+../../FormationAndroid2ee\AppCompatViews
+../../FormationAndroid2ee\DepartTPForecast\MyPermierProjetInfomil
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ActivityWithListMenuDialog
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\AnalogicAndDigitalClock
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\AppWidgetTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CalendarViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CheckBoxTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CheckedTextViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ChronoTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CircleBar
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP2ListView
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP3SpinnerAutoCompleteTextView
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours4DialogDemo
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DateAndTimePickerTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DrawGraphic
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DynamicTabPane
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\FingerFollowing
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\GalleryTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\GridLayoutTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\LinearLayoutSample
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ListViewTuto2
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\MultiTabBrowserTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\PreferenceSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ProgressBarTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\RadioButtonTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\RelativeLayout
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SeekBarRadioGroupCheckBox
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SimpleWidgetTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SlidingDrawerTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\StaticTabPane
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TabHostLikeViewPager
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TableLayoutTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TPCoursIHM2
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\VideoViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ViewFlipperActivityTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ViewFlipperSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\WebViewTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\AndroidLifeCycleLogging
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\BlueTooth
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\ContentProviderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\CursorLoaderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\DataBaseTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\DisplayContactsTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\FileManagementTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\FinishInOnCreate
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\IntentionSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\MenuTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\NotificationTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PermierTPParisNov
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PhotographyByIntent
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierProjetAtos
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierProjetJCertif
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierTPInterParisMai
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierTPOrleans
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\RSSReaderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SmsListenerTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SmsReceiverMathias
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SMSTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\AsyncTaskTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\HandlerActivityBindingThreadTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\HandlerTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\OrphanAsyncTaskThreadTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\OrphanThreadDemo
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorAccelerationTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorAccelerationTutoAlpha
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorGyroscopeTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorLightTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorMagneticFieldTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorOrientationAMTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorProximityTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorRotationVectorTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorsListTuto
+../../FormationAndroid2ee\Formation_ICS_AS\AAnnotProjectMigrated
+../../FormationAndroid2ee\Formation_ICS_AS\ActionBarCompatSample
+../../FormationAndroid2ee\Formation_ICS_AS\ActionBarTuto
+../../FormationAndroid2ee\Formation_ICS_AS\ActivityTransition
+../../FormationAndroid2ee\Formation_ICS_AS\AuthentificationGPlus
+../../FormationAndroid2ee\Formation_ICS_AS\DataBaseOrmLite
+../../FormationAndroid2ee\Formation_ICS_AS\DataBaseSugarOrmTuto
+../../FormationAndroid2ee\Formation_ICS_AS\EventBusSample
+../../FormationAndroid2ee\Formation_ICS_AS\FragmentDynamicTuto
+../../FormationAndroid2ee\Formation_ICS_AS\FragmentStaticTuto
+../../FormationAndroid2ee\Formation_ICS_AS\GDriveTuto
+../../FormationAndroid2ee\Formation_ICS_AS\GoogleMapSample
+../../FormationAndroid2ee\JAssimileDepartTP
+../../GitHub_Projects\AndroidOAuth2_Github_POC
+../../GitHub_Projects\BlueToothTuto\BlueTooth
+../../GitHub_Projects\BugAnimatedVectorDrawableAndLevelList
+../../GitHub_Projects\CustomViewAndDrawable
+../../GitHub_Projects\GDirectionsApiUtils\GDirectionsApiUtils
+../../GitHub_Projects\SquareLibs
+../../MyLabProject\BallMovement
+../../MyLabProject\CircleBar
+../../MyLabProject\DecoratorThreeStatesView
+../../MyLabProject\GameTuto
+../../MyLabProject\GPathEffects
+../../MyLabProject\ScreenDesigner
+../../MyProjets\AmberTeam
+../../MyProjets\ForecastYahooRest\ForecastRestWithLibs
+../../MyProjets\ForecastYahooRest\ForecastYahooRest
+../../MyProjets\MyApplication
+../../MyProjets\MyGoooglePublicProfile
+../../MyProjets\MyLight
+../../MyProjets\MyStopTabac
+../../MyProjets\TextToSpeechBasile
+../../MyProjets\WearGallery
+../../Sylpheo\Hackaton-Widget-Android
+../../TPFormation\FirstToulouseProject
+../../TPFormation\FormationInfomilDeux
+../../TPFormation\MyAcmsFirstTraining
+../../TPFormation\MyApplicationCGI
+../../TPFormation\MyApplicationOIF
+../../TPFormation\MyApplicationTeleric
+../../TPFormation\MyFirstApplicationM2I
+../../TPFormation\MyFirstAppWithGael
+../../TPFormation\MyFirstPorjectIdGeo
+../../TPFormation\MyFirstProjectParisSeptXV
+../../TPFormation\PremierProjetDecXxdv
+../../TPFormation\PremierProjetOntomantics
+
+
+Missing LicenceTxt projects
+****************************
+
+../../FormationAndroid2ee\AppCompatViews
+../../FormationAndroid2ee\DepartTPForecast\MyPermierProjetInfomil
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ActivityWithListMenuDialog
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\AnalogicAndDigitalClock
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\AppWidgetTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CalendarViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CheckBoxTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CheckedTextViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ChronoTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CircleBar
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP2ListView
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP3SpinnerAutoCompleteTextView
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours4DialogDemo
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DateAndTimePickerTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DrawGraphic
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DynamicTabPane
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\FingerFollowing
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\GalleryTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\GridLayoutTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\LinearLayoutSample
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ListViewTuto2
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\MultiTabBrowserTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\PreferenceSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ProgressBarTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\RadioButtonTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\RelativeLayout
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SeekBarRadioGroupCheckBox
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SimpleWidgetTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SlidingDrawerTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\StaticTabPane
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TabHostLikeViewPager
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TableLayoutTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TPCoursIHM2
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\VideoViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ViewFlipperActivityTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ViewFlipperSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\WebViewTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\AndroidLifeCycleLogging
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\BlueTooth
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\ContentProviderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\CursorLoaderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\DataBaseTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\DisplayContactsTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\FileManagementTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\FinishInOnCreate
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\IntentionSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\MenuTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\NotificationTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PermierTPParisNov
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PhotographyByIntent
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierProjetAtos
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierProjetJCertif
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierTPInterParisMai
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierTPOrleans
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\RSSReaderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SmsListenerTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SmsReceiverMathias
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SMSTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\AsyncTaskTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\HandlerActivityBindingThreadTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\HandlerTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\OrphanAsyncTaskThreadTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\OrphanThreadDemo
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorAccelerationTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorAccelerationTutoAlpha
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorGyroscopeTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorLightTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorMagneticFieldTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorOrientationAMTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorProximityTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorRotationVectorTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorsListTuto
+../../FormationAndroid2ee\Formation_ICS_AS\AAnnotProjectMigrated
+../../FormationAndroid2ee\Formation_ICS_AS\ActionBarCompatSample
+../../FormationAndroid2ee\Formation_ICS_AS\ActionBarTuto
+../../FormationAndroid2ee\Formation_ICS_AS\ActivityTransition
+../../FormationAndroid2ee\Formation_ICS_AS\AuthentificationGPlus
+../../FormationAndroid2ee\Formation_ICS_AS\DataBaseOrmLite
+../../FormationAndroid2ee\Formation_ICS_AS\DataBaseSugarOrmTuto
+../../FormationAndroid2ee\Formation_ICS_AS\EventBusSample
+../../FormationAndroid2ee\Formation_ICS_AS\FragmentDynamicTuto
+../../FormationAndroid2ee\Formation_ICS_AS\FragmentStaticTuto
+../../FormationAndroid2ee\Formation_ICS_AS\GDriveTuto
+../../FormationAndroid2ee\Formation_ICS_AS\GoogleMapSample
+../../FormationAndroid2ee\JAssimileDepartTP
+../../GitHub_Projects\AndroidOAuth2_Github_POC
+../../GitHub_Projects\BlueToothTuto\BlueTooth
+../../GitHub_Projects\BugAnimatedVectorDrawableAndLevelList
+../../GitHub_Projects\CustomViewAndDrawable
+../../GitHub_Projects\CustomViewCircleBar
+../../GitHub_Projects\GDirectionsApiUtils\GDirectionsApiUtils
+../../GitHub_Projects\JobSchedulerForGitHub
+../../GitHub_Projects\SquareLibs
+../../MyLabProject\BallMovement
+../../MyLabProject\CircleBar
+../../MyLabProject\DecoratorThreeStatesView
+../../MyLabProject\GameTuto
+../../MyLabProject\GPathEffects
+../../MyLabProject\ScreenDesigner
+../../MyProjets\AmberTeam
+../../MyProjets\ForecastYahooRest\ForecastRestWithLibs
+../../MyProjets\MyApplication
+../../MyProjets\MyGoooglePublicProfile
+../../MyProjets\MyLight
+../../MyProjets\MyStopTabac
+../../MyProjets\TextToSpeechBasile
+../../MyProjets\WayDroid
+../../MyProjets\WearGallery
+../../Sylpheo\Hackaton-Widget-Android
+../../TPFormation\FirstToulouseProject
+../../TPFormation\FormationInfomilDeux
+../../TPFormation\MyApplicationCGI
+../../TPFormation\MyApplicationOIF
+../../TPFormation\MyApplicationTeleric
+../../TPFormation\MyFirstApplicationM2I
+../../TPFormation\MyFirstAppWithGael
+../../TPFormation\MyFirstPorjectIdGeo
+../../TPFormation\MyFirstProjectParisSeptXV
+../../TPFormation\MySecondAcmsApplication
+../../TPFormation\PremierProjetDecXxdv
+../../TPFormation\PremierProjetOntomantics
+
+
+Missing OSLicenses Management projects
+****************************
+
+../../FormationAndroid2ee\AppCompatViews
+../../FormationAndroid2ee\DepartTPForecast\MyPermierProjetInfomil
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ActivityWithListMenuDialog
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\AnalogicAndDigitalClock
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\AppWidgetTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CalendarViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CheckBoxTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CheckedTextViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ChronoTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\CircleBar
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP2ListView
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours3TP3SpinnerAutoCompleteTextView
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\Cours4DialogDemo
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DateAndTimePickerTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DrawGraphic
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\DynamicTabPane
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\FingerFollowing
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\GalleryTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\GridLayoutTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\LinearLayoutSample
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ListViewTuto2
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\MultiTabBrowserTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\PreferenceSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ProgressBarTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\RadioButtonTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\RelativeLayout
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SeekBarRadioGroupCheckBox
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SimpleWidgetTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\SlidingDrawerTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\StaticTabPane
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TabHostLikeViewPager
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TableLayoutTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\TPCoursIHM2
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\VideoViewTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ViewFlipperActivityTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\ViewFlipperSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_InitGui_AS\WebViewTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\AndroidLifeCycleLogging
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\BlueTooth
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\ContentProviderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\CursorLoaderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\DataBaseTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\DisplayContactsTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\FileManagementTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\FinishInOnCreate
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\IntentionSimpleTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\MenuTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\NotificationTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PermierTPParisNov
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PhotographyByIntent
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierProjetAtos
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierProjetJCertif
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierTPInterParisMai
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\PremierTPOrleans
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\RSSReaderTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SmsListenerTuto
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SmsReceiverMathias
+../../FormationAndroid2ee\FormationInitiale_Init_Persistence_System_TP\SMSTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\AsyncTaskTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\HandlerActivityBindingThreadTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\HandlerTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\OrphanAsyncTaskThreadTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\OrphanThreadDemo
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorAccelerationTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorAccelerationTutoAlpha
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorGyroscopeTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorLightTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorMagneticFieldTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorOrientationAMTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorProximityTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorRotationVectorTuto
+../../FormationAndroid2ee\FormationInitiale_Sensor_Thread\SensorsListTuto
+../../FormationAndroid2ee\Formation_ICS_AS\AAnnotProjectMigrated
+../../FormationAndroid2ee\Formation_ICS_AS\ActionBarCompatSample
+../../FormationAndroid2ee\Formation_ICS_AS\ActionBarTuto
+../../FormationAndroid2ee\Formation_ICS_AS\ActivityTransition
+../../FormationAndroid2ee\Formation_ICS_AS\AuthentificationGPlus
+../../FormationAndroid2ee\Formation_ICS_AS\DataBaseOrmLite
+../../FormationAndroid2ee\Formation_ICS_AS\DataBaseSugarOrmTuto
+../../FormationAndroid2ee\Formation_ICS_AS\EventBusSample
+../../FormationAndroid2ee\Formation_ICS_AS\FragmentDynamicTuto
+../../FormationAndroid2ee\Formation_ICS_AS\FragmentStaticTuto
+../../FormationAndroid2ee\Formation_ICS_AS\GDriveTuto
+../../FormationAndroid2ee\Formation_ICS_AS\GoogleMapSample
+../../FormationAndroid2ee\JAssimileDepartTP
+../../GitHub_Projects\AndroidOAuth2_Github_POC
+../../GitHub_Projects\BlueToothTuto\BlueTooth
+../../GitHub_Projects\BugAnimatedVectorDrawableAndLevelList
+../../GitHub_Projects\CustomViewAndDrawable
+../../GitHub_Projects\CustomViewCircleBar
+../../GitHub_Projects\GDirectionsApiUtils\GDirectionsApiUtils
+../../GitHub_Projects\JobSchedulerForGitHub
+../../GitHub_Projects\SquareLibs
+../../MyLabProject\BallMovement
+../../MyLabProject\CircleBar
+../../MyLabProject\DecoratorThreeStatesView
+../../MyLabProject\GameTuto
+../../MyLabProject\GPathEffects
+../../MyLabProject\ScreenDesigner
+../../MyProjets\AmberTeam
+../../MyProjets\ForecastYahooRest\ForecastRestWithLibs
+../../MyProjets\ForecastYahooRest\ForecastYahooRest
+../../MyProjets\MyApplication
+../../MyProjets\MyGoooglePublicProfile
+../../MyProjets\MyLight
+../../MyProjets\MyStopTabac
+../../MyProjets\TextToSpeechBasile
+../../MyProjets\WayDroid
+../../MyProjets\WearGallery
+../../Sylpheo\Hackaton-Widget-Android
+../../TPFormation\FirstToulouseProject
+../../TPFormation\FormationInfomilDeux
+../../TPFormation\MyAcmsFirstTraining
+../../TPFormation\MyApplicationCGI
+../../TPFormation\MyApplicationOIF
+../../TPFormation\MyApplicationTeleric
+../../TPFormation\MyFirstApplicationM2I
+../../TPFormation\MyFirstAppWithGael
+../../TPFormation\MyFirstPorjectIdGeo
+../../TPFormation\MyFirstProjectParisSeptXV
+../../TPFormation\MySecondAcmsApplication
+../../TPFormation\PremierProjetDecXxdv
+../../TPFormation\PremierProjetOntomantics
+
+
+With Specific Jks projects
+****************************
+
+../../GitHub_Projects\AndroidOAuth2_Github_POC
+../../MyProjets\AmberTeam
+../../MyProjets\ForecastYahooRest\ForecastRestWithLibs
+../../MyProjets\MultiplicationBasile
+../../MyProjets\MyGoooglePublicProfile
+../../MyProjets\MyLight
+../../MyProjets\MyStopTabac
+../../MyProjets\WayDroid
+../../Temp\Res\ActionBarCompatSample
+../../Temp\Res\AmberTeam
+../../Temp\Res\ChronoTuto
+../../Temp\Res\ForecastRestWithLibs
+../../Temp\Res\MyLight
+../../TPFormation\MyAcmsFirstTraining

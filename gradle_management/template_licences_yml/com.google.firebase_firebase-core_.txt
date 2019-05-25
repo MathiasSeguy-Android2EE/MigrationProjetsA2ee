@@ -1,0 +1,8 @@
+#Firebase Components
+- artifact: com.google.firebase:firebase-core:+
+  name: firebase-core
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+  skip: true
+
