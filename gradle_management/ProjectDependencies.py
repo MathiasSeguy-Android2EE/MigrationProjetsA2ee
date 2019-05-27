@@ -38,15 +38,22 @@ class Dependencies:
     def parseLine(self,line):
         line=line.replace('\'','\"')
         #Replace compile by implementation
-        #this is not that simple
-        if('ompile' in line.split(" ")[0] ):
+        #this is not that simple because grouid or artifactid can contains "compile" set of letters
+        # print("line.split() "+str(line.split(" ")))
+        firstNotNullIndex=0
+        splittedLine=line.split(" ")
+        while splittedLine[firstNotNullIndex] == None or len(splittedLine[firstNotNullIndex])==0:
+            firstNotNullIndex=firstNotNullIndex+1
+        if('ompile' in splittedLine[firstNotNullIndex] ):
             #replace
-            templine=line.split(" ")[0].replace('compile','implementation')
-            templine=line.split(" ")[0].replace('Compile','Implementation')
-            for subline in line.split(" ")[1:]:
+            templine=splittedLine[firstNotNullIndex].replace('compile','implementation')
+            templine=templine.replace('Compile','Implementation')
+            # print("templine = "+templine)
+            line= templine+" "
+            for subline in splittedLine[firstNotNullIndex+1:]:
+                # print("Adding subline "+subline)
                 line = line + subline + " "
-            line= templine + line
-        
+        print(BLUE+"\t "+line.replace("\n",""))
         #then you can parse your line
         if len(line.split(':')) != 3:
             #print('\n')            
@@ -126,3 +133,4 @@ class Dependencies:
         self.rawValue=line.replace("\n","")
         # print('analayse error: '+line.replace('\n',''))
         pass
+

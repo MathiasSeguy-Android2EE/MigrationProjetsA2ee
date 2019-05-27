@@ -137,3 +137,7 @@ class ProjectMeta:
             print(RED+'File not found in project')
 
         print(CYAN+"\t"+str(self))
+
+#Testing
+# gradleBuildFile="D:\\Git\\FormationAndroid2ee\\DepartTPForecast\\MyPermierProjetInfomil\\app\\build.gradle"
+# projectMeta= ProjectMeta(gradleBuildFile)
