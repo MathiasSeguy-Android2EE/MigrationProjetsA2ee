@@ -2,18 +2,19 @@
 # https://github.com/gitpython-developers/GitPython/blob/master/git/test/test_docs.py
 # https://github.com/PyGithub/PyGithub
 import os
+from os import path
 import subprocess
 from shutil import copyfile
 import git
 from git import Actor
 from git import Repo
 from github import Github
-import sh_command
+import git_management
+from git_management import sh_command
 from ownStyle import GREEN, BLUE, BOLD, GREEN, RED, RESET, CYAN
 #Managing private account : the file git_private_account.py is not in git
-import importlib
-privateAccount = importlib.util.find_spec("git_private_account")
-if privateAccount is not None:
+ROOT_PYTHON_PATH=path.dirname(path.abspath(__file__))
+if os.path.isfile(ROOT_PYTHON_PATH+'\\git_private_account.py'):
     import git_private_account
     print(GREEN+" Private accounts for jenkins have been found. Using them.")
     githubAccessToken = git_private_account.githubAccessToken
@@ -163,6 +164,7 @@ def gitCreateAndPush(repository,repoDescription):
         #launch git bash in the repo
         sh_command.runGitPushInCommandLine(repository)
         
+
 
 # print('test')
 # listGitHubRepo()

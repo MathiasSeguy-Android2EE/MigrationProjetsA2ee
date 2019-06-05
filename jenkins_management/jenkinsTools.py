@@ -10,9 +10,7 @@ ROOT_PYTHON_PATH=path.dirname(path.abspath(__file__))
 JENKINS_TEMPLATE_PATH=ROOT_PYTHON_PATH+"\\templates\\"
 
 #Managing private account : the file jenkins_private_account.py is not in git
-import importlib
-privateAccount = importlib.util.find_spec("jenkins_private_account")
-if privateAccount is not None:
+if path.isfile(ROOT_PYTHON_PATH+'\\jenkins_private_account.py'):
     import jenkins_private_account
     print(GREEN+" Private accounts for jenkins have been found. Using them.")
     GIT_ROOT_URL=jenkins_private_account.GIT_ROOT_URL
@@ -142,4 +140,4 @@ def createLinkedJobs(jenkinsJobs):
 
 # createJob("MultiplicationBasile","master","clean build")
 # listJobs()
-# print("Test")
+print("Test")
